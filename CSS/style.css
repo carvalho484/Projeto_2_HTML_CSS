@@ -18,7 +18,7 @@ body {
     border-bottom: 3px solid #ffffff;
 }
 
-.rede-1 {
+.btn-1 {
     position: absolute;
     left: 45%;
     top: 10px;
@@ -34,7 +34,7 @@ body {
     height: 20px;
 }
 
-.rede-2 {
+.btn-2 {
    position: absolute;
    top: 10px;
    right: 10px;
@@ -102,16 +102,16 @@ main h1 {
     margin-left: 270px;
 }
 
-.rede-3 {
+.btn-3 {
     width: fit-content;
     margin-left: 25%;
 }
 
-.rede-3 li {
+.btn-3 li {
     margin: 40px 60px 0 0;
 }
 
-.rede-3 a {
+.btn-3 a {
     padding: 20px;
     border: 3px solid #ffffff;
 }
