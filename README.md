@@ -55,4 +55,5 @@ git clone https://github.com/carvalho484/Projeto_1_HTML_CSS.git
 - **Melhoria de Layout:** Alinhamentos manuais podem ser substituídos por técnicas CSS modernas.
 
 ## Conclusão
-Este projeto serve como uma base sólida para iniciantes em HTML e CSS, combinando boas práticas de estruturação e estilização. Ele também evidencia áreas importantes de melhoria, como responsividade, acessibilidade e otimização, que são essenciais para o desenvolvimento web profissional.
+Este projeto serve como uma base sólida em HTML e CSS, combinando boas práticas de estruturação e estilização. Ele também evidencia áreas importantes de melhoria, como responsividade, acessibilidade e otimização, que são essenciais para o desenvolvimento web profissional.
+
