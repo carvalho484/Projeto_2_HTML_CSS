@@ -4,7 +4,7 @@ Bem-vindo ao projeto **Lanchonete Burger**! Este é um site simples de uma hambu
 
 ---
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **HTML5**: Estrutura do site
 - **CSS3**: Estilização, cores, fontes e responsividade
@@ -13,4 +13,11 @@ Bem-vindo ao projeto **Lanchonete Burger**! Este é um site simples de uma hambu
 
 ---
 
-## 🖼 Estrutura do projeto
+## Estrutura do projeto
+
+Lanchonete-Burger/
+│
+├── IMG/ # Imagens do site (logo e hambúrgueres)
+├── CSS/
+│ └── style.css # Arquivo de estilização
+└── index.html # Página principal do site
