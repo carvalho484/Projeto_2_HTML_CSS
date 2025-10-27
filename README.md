@@ -27,3 +27,8 @@ O projeto é composto pelos seguintes arquivos:
 ```bash
 git clone https://github.com/carvalho484/Projeto_1_HTML_CSS.git
 
+## Tecnologias Utilizadas
+- **HTML5**: Estruturação semântica da página.
+- **CSS3**: Estilização visual da página.
+- **Google Fonts**: Fontes Roboto, Roboto Condensed e Roboto Mono.
+- **Material Symbols**: Ícones para perfil do usuário.
