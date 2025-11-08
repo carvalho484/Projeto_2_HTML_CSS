@@ -1,4 +1,4 @@
-# Documentação do Projeto: Projeto_1_HTML_CSS – Lanchonete Burger
+# Documentação do Projeto: landing-page-hamburgueria
 
 ## Visão Geral
 Este repositório contém o projeto **Lanchonete Burger**, desenvolvido com **HTML** e **CSS**, com o objetivo de aplicar conceitos fundamentais dessas tecnologias e criar uma página visualmente agradável. O site apresenta os produtos mais pedidos da lanchonete, informações de contato e links para redes sociais.
@@ -56,4 +56,5 @@ git clone https://github.com/carvalho484/Projeto_1_HTML_CSS.git
 
 ## Conclusão
 Este projeto serve como uma base sólida em HTML e CSS, combinando boas práticas de estruturação e estilização. Ele também evidencia áreas importantes de melhoria, como responsividade, acessibilidade e otimização, que são essenciais para o desenvolvimento web profissional.
+
 
